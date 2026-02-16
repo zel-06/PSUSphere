@@ -15,7 +15,11 @@ class ProgramAdmin(admin.ModelAdmin):
     search_fields = ("prog_name", "college__college_name")
     list_filter = ("college",)
 
-admin.site.register(Organization)
+@admin.register(Organization)
+class OrganizationAdmin(admin.ModelAdmin):
+    list_display = ("name", "college", "description")
+    search_fields = ("name", "description")
+    list_filter = ("college",)
 
 @admin.register(Student)
 class StudentAdmin(admin.ModelAdmin):
