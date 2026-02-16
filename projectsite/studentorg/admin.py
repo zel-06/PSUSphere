@@ -9,7 +9,7 @@ class CollegeAdmin(admin.ModelAdmin):
     search_fields = ("college_name",)
     list_filter = ("created_at",)
 
-admin.register(Program)
+@admin.register(Program)
 class ProgramAdmin(admin.ModelAdmin):
     list_display = ("prog_name", "college")
     search_fields = ("prog_name", "college__college_name")
