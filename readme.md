@@ -30,3 +30,31 @@
 git clone <repo-url>
 cd PSUSphere
 ```
+
+---
+
+## 🧑‍💻 Authors
+
+<img src="https://github.com/zel-06.png" width="150" style="border-radius:50%"  />  
+  
+Name: Cymon Jezrel B. Clores  
+Email: 202380047@psu.palawan.edu.ph 
+
+<a href="https://www.facebook.com/cymonjezrelbantang.clores/">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30" />
+</a>
+<a href="https://github.com/zel-06">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30" />
+</a>
+
+<img src="https://github.com/Ryannn20.png" width="150" style="border-radius:50%" />   
+
+Name: Ryan Jazer G. Prieto  
+Email: 202380146@psu.palawan.edu.ph
+
+<a href="https://www.facebook.com/cryan.outloud">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30" />
+</a>
+<a href="https://github.com/Ryannn20">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30" />
+</a>
